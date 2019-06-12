@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP3_Desenvolvimento</string>
+    <string name="formulario">Formulário</string>
+    <string name="visualizar">Visualizar Contatos</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string name="cidade">Cidade</string>
+    <string name="cpf">CPF</string>
+    <string name="celular">Celular</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="tp3">TP3</string>
+</resources>

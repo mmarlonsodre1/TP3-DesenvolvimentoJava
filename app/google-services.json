@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957508966425",
+    "firebase_url": "https://tp3desenvolvimento-85357.firebaseio.com",
+    "project_id": "tp3desenvolvimento-85357",
+    "storage_bucket": "tp3desenvolvimento-85357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957508966425:android:7b272157929408c8",
+        "android_client_info": {
+          "package_name": "com.example.marlonsodre.tp3_desenvolvimento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957508966425-2tk1ba20vm7pu16inrokcvr3lmg0sjgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marlonsodre.tp3_desenvolvimento",
+            "certificate_hash": "c570b07ac5423c6d28e881d59441041e8b085905"
+          }
+        },
+        {
+          "client_id": "957508966425-mkolcfiu31kt5c907lqldt2ib2beqjjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApR7KUibNH-xQGvcuBe_a3zlshU7I5vdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957508966425-mkolcfiu31kt5c907lqldt2ib2beqjjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
